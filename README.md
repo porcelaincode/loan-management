@@ -56,21 +56,9 @@ list/view loans by filter - user/agent/admin - date of creation - date of update
 
 1. Admin Role
 
-    username- oneadmin<br/>
-    password- admin12345
-
 2. Agent Role
 
-    username- oneagent<br/>
-    password- agent12345
-
 3. User Role
-
-    username- oneuser<br/>
-    password- user12345
-
-    username- twouser<br/>
-    password- twouser12345
 
 ## Images
 
